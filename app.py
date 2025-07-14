@@ -445,12 +445,6 @@ def index_template():
                         <li class="nav-item">
                             <a class="nav-link" href="/monitor">Add Site</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="http://127.0.0.1:5000/">Darkweb Analyzer</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="http://127.0.0.1:5556/">AutoMonitor</a>
-                        </li>
                     </ul>
                 </div>
             </div>
@@ -617,12 +611,6 @@ def monitor_template():
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" href="/monitor">Add Site</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" href="http://127.0.0.1:5000/">Darkweb Analyzer</a>
-                        </li>
-                         <li class="nav-item">
-                            <a class="nav-link active" href="http://127.0.0.1:5556/">AutoMonitor</a>
                         </li>
                     </ul>
                 </div>
